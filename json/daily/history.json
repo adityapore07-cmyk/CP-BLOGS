@@ -157,5 +157,86 @@
         "url": "https://codeforces.com/problemset/problem/1569/D"
       }
     ]
+  },
+  {
+    "date": "2026-11-11",
+    "problems": [
+      {
+        "slot": 1,
+        "id": "1313A",
+        "name": "Fast Food Restaurant",
+        "rating": 900,
+        "tags": [
+          "brute force",
+          "greedy",
+          "implementation"
+        ],
+        "url": "https://codeforces.com/problemset/problem/1313/A"
+      },
+      {
+        "slot": 2,
+        "id": "2043B",
+        "name": "Digits",
+        "rating": 1100,
+        "tags": [
+          "math",
+          "number theory"
+        ],
+        "url": "https://codeforces.com/problemset/problem/2043/B"
+      },
+      {
+        "slot": 3,
+        "id": "289B",
+        "name": "Polo the Penguin and Matrix",
+        "rating": 1400,
+        "tags": [
+          "brute force",
+          "dp",
+          "implementation",
+          "sortings",
+          "ternary search"
+        ],
+        "url": "https://codeforces.com/problemset/problem/289/B"
+      },
+      {
+        "slot": 4,
+        "id": "293A",
+        "name": "Weird Game",
+        "rating": 1500,
+        "tags": [
+          "games",
+          "greedy"
+        ],
+        "url": "https://codeforces.com/problemset/problem/293/A"
+      },
+      {
+        "slot": 5,
+        "id": "1328D",
+        "name": "Carousel",
+        "rating": 1800,
+        "tags": [
+          "constructive algorithms",
+          "dp",
+          "graphs",
+          "greedy",
+          "math"
+        ],
+        "url": "https://codeforces.com/problemset/problem/1328/D"
+      },
+      {
+        "slot": 6,
+        "id": "1582E",
+        "name": "Pchelyonok and Segments",
+        "rating": 2000,
+        "tags": [
+          "binary search",
+          "data structures",
+          "dp",
+          "greedy",
+          "math"
+        ],
+        "url": "https://codeforces.com/problemset/problem/1582/E"
+      }
+    ]
   }
 ]
