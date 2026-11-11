@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T21:27:27.970Z",
+  "updatedAt": "2026-11-11T23:07:39.417Z",
   "users": {
     "urabhay10": {
       "name": "Abhay Upadhyay",
@@ -345,7 +345,7 @@
       },
       "lateSolves": {},
       "totalSolved": 3,
-      "currentStreak": 2,
+      "currentStreak": 0,
       "longestStreak": 2,
       "solvedToday": 0,
       "solvedBySlot": [
@@ -484,7 +484,7 @@
       },
       "lateSolves": {},
       "totalSolved": 2,
-      "currentStreak": 2,
+      "currentStreak": 0,
       "longestStreak": 2,
       "solvedToday": 0,
       "solvedBySlot": [
@@ -513,7 +513,7 @@
       },
       "lateSolves": {},
       "totalSolved": 2,
-      "currentStreak": 2,
+      "currentStreak": 0,
       "longestStreak": 2,
       "solvedToday": 0,
       "solvedBySlot": [
