@@ -318,5 +318,75 @@
         "url": "https://codeforces.com/problemset/problem/1632/D"
       }
     ]
+  },
+  {
+    "date": "2026-11-13",
+    "problems": [
+      {
+        "slot": 1,
+        "id": "1657B",
+        "name": "XY Sequence",
+        "rating": 800,
+        "tags": [
+          "greedy"
+        ],
+        "url": "https://codeforces.com/problemset/problem/1657/B"
+      },
+      {
+        "slot": 2,
+        "id": "583A",
+        "name": "Asphalting Roads",
+        "rating": 1000,
+        "tags": [
+          "implementation"
+        ],
+        "url": "https://codeforces.com/problemset/problem/583/A"
+      },
+      {
+        "slot": 3,
+        "id": "1671C",
+        "name": "Dolce Vita",
+        "rating": 1200,
+        "tags": [
+          "binary search",
+          "brute force",
+          "greedy",
+          "math"
+        ],
+        "url": "https://codeforces.com/problemset/problem/1671/C"
+      },
+      {
+        "slot": 4,
+        "id": "2131E",
+        "name": "Adjacent XOR",
+        "rating": 1400,
+        "tags": [
+          "brute force",
+          "greedy"
+        ],
+        "url": "https://codeforces.com/problemset/problem/2131/E"
+      },
+      {
+        "slot": 5,
+        "id": "435C",
+        "name": "Cardiogram",
+        "rating": 1600,
+        "tags": [
+          "implementation"
+        ],
+        "url": "https://codeforces.com/problemset/problem/435/C"
+      },
+      {
+        "slot": 6,
+        "id": "200C",
+        "name": "Football Championship",
+        "rating": 1800,
+        "tags": [
+          "brute force",
+          "implementation"
+        ],
+        "url": "https://codeforces.com/problemset/problem/200/C"
+      }
+    ]
   }
 ]
