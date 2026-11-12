@@ -238,5 +238,85 @@
         "url": "https://codeforces.com/problemset/problem/1582/E"
       }
     ]
+  },
+  {
+    "date": "2026-11-12",
+    "problems": [
+      {
+        "slot": 1,
+        "id": "1573A",
+        "name": "Countdown",
+        "rating": 800,
+        "tags": [
+          "greedy"
+        ],
+        "url": "https://codeforces.com/problemset/problem/1573/A"
+      },
+      {
+        "slot": 2,
+        "id": "216A",
+        "name": "Tiling with Hexagons",
+        "rating": 1200,
+        "tags": [
+          "implementation",
+          "math"
+        ],
+        "url": "https://codeforces.com/problemset/problem/216/A"
+      },
+      {
+        "slot": 3,
+        "id": "56B",
+        "name": "Spoilt Permutation",
+        "rating": 1300,
+        "tags": [
+          "implementation"
+        ],
+        "url": "https://codeforces.com/problemset/problem/56/B"
+      },
+      {
+        "slot": 4,
+        "id": "1980E",
+        "name": "Permutation of Rows and Columns",
+        "rating": 1600,
+        "tags": [
+          "constructive algorithms",
+          "data structures",
+          "greedy",
+          "hashing",
+          "implementation",
+          "math",
+          "matrices",
+          "sortings"
+        ],
+        "url": "https://codeforces.com/problemset/problem/1980/E"
+      },
+      {
+        "slot": 5,
+        "id": "1062C",
+        "name": "Banh-mi",
+        "rating": 1600,
+        "tags": [
+          "greedy",
+          "implementation",
+          "math"
+        ],
+        "url": "https://codeforces.com/problemset/problem/1062/C"
+      },
+      {
+        "slot": 6,
+        "id": "1632D",
+        "name": "New Year Concert",
+        "rating": 2000,
+        "tags": [
+          "binary search",
+          "data structures",
+          "greedy",
+          "math",
+          "number theory",
+          "two pointers"
+        ],
+        "url": "https://codeforces.com/problemset/problem/1632/D"
+      }
+    ]
   }
 ]
