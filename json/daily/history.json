@@ -388,5 +388,82 @@
         "url": "https://codeforces.com/problemset/problem/200/C"
       }
     ]
+  },
+  {
+    "date": "2026-11-14",
+    "problems": [
+      {
+        "slot": 1,
+        "id": "1270A",
+        "name": "Card Game",
+        "rating": 800,
+        "tags": [
+          "games",
+          "greedy",
+          "math"
+        ],
+        "url": "https://codeforces.com/problemset/problem/1270/A"
+      },
+      {
+        "slot": 2,
+        "id": "2189B",
+        "name": "The Curse of the Frog",
+        "rating": 1200,
+        "tags": [
+          "constructive algorithms",
+          "greedy",
+          "math"
+        ],
+        "url": "https://codeforces.com/problemset/problem/2189/B"
+      },
+      {
+        "slot": 3,
+        "id": "732C",
+        "name": "Sanatorium",
+        "rating": 1200,
+        "tags": [
+          "binary search",
+          "constructive algorithms",
+          "greedy",
+          "implementation",
+          "math"
+        ],
+        "url": "https://codeforces.com/problemset/problem/732/C"
+      },
+      {
+        "slot": 4,
+        "id": "1036B",
+        "name": "Diagonal Walking v.2",
+        "rating": 1600,
+        "tags": [
+          "math"
+        ],
+        "url": "https://codeforces.com/problemset/problem/1036/B"
+      },
+      {
+        "slot": 5,
+        "id": "1526C2",
+        "name": "Potions (Hard Version)",
+        "rating": 1600,
+        "tags": [
+          "data structures",
+          "greedy"
+        ],
+        "url": "https://codeforces.com/problemset/problem/1526/C2"
+      },
+      {
+        "slot": 6,
+        "id": "1355C",
+        "name": "Count Triangles",
+        "rating": 1800,
+        "tags": [
+          "binary search",
+          "implementation",
+          "math",
+          "two pointers"
+        ],
+        "url": "https://codeforces.com/problemset/problem/1355/C"
+      }
+    ]
   }
 ]
