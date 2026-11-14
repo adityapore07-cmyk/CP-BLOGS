@@ -465,5 +465,80 @@
         "url": "https://codeforces.com/problemset/problem/1355/C"
       }
     ]
+  },
+  {
+    "date": "2026-11-15",
+    "problems": [
+      {
+        "slot": 1,
+        "id": "1716A",
+        "name": "2-3 Moves",
+        "rating": 800,
+        "tags": [
+          "greedy",
+          "math"
+        ],
+        "url": "https://codeforces.com/problemset/problem/1716/A"
+      },
+      {
+        "slot": 2,
+        "id": "1539C",
+        "name": "Stable Groups",
+        "rating": 1200,
+        "tags": [
+          "greedy",
+          "sortings"
+        ],
+        "url": "https://codeforces.com/problemset/problem/1539/C"
+      },
+      {
+        "slot": 3,
+        "id": "2206K",
+        "name": "Time Display Stickers",
+        "rating": 1300,
+        "tags": [
+          "binary search"
+        ],
+        "url": "https://codeforces.com/problemset/problem/2206/K"
+      },
+      {
+        "slot": 4,
+        "id": "1133F1",
+        "name": "Spanning Tree with Maximum Degree",
+        "rating": 1600,
+        "tags": [
+          "graphs"
+        ],
+        "url": "https://codeforces.com/problemset/problem/1133/F1"
+      },
+      {
+        "slot": 5,
+        "id": "1632C",
+        "name": "Strange Test",
+        "rating": 1600,
+        "tags": [
+          "binary search",
+          "bitmasks",
+          "brute force",
+          "dp",
+          "math"
+        ],
+        "url": "https://codeforces.com/problemset/problem/1632/C"
+      },
+      {
+        "slot": 6,
+        "id": "1200D",
+        "name": "White Lines",
+        "rating": 1900,
+        "tags": [
+          "brute force",
+          "data structures",
+          "dp",
+          "implementation",
+          "two pointers"
+        ],
+        "url": "https://codeforces.com/problemset/problem/1200/D"
+      }
+    ]
   }
 ]
