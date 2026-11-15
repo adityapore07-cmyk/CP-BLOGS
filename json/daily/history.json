@@ -540,5 +540,76 @@
         "url": "https://codeforces.com/problemset/problem/1200/D"
       }
     ]
+  },
+  {
+    "date": "2026-11-16",
+    "problems": [
+      {
+        "slot": 1,
+        "id": "2205B",
+        "name": "Simons and Cakes for Success",
+        "rating": 800,
+        "tags": [
+          "implementation",
+          "math"
+        ],
+        "url": "https://codeforces.com/problemset/problem/2205/B"
+      },
+      {
+        "slot": 2,
+        "id": "1681C",
+        "name": "Double Sort",
+        "rating": 1200,
+        "tags": [
+          "implementation",
+          "sortings"
+        ],
+        "url": "https://codeforces.com/problemset/problem/1681/C"
+      },
+      {
+        "slot": 3,
+        "id": "471B",
+        "name": "MUH and Important Things",
+        "rating": 1300,
+        "tags": [
+          "implementation",
+          "sortings"
+        ],
+        "url": "https://codeforces.com/problemset/problem/471/B"
+      },
+      {
+        "slot": 4,
+        "id": "435B",
+        "name": "Pasha Maximizes",
+        "rating": 1400,
+        "tags": [
+          "greedy"
+        ],
+        "url": "https://codeforces.com/problemset/problem/435/B"
+      },
+      {
+        "slot": 5,
+        "id": "257C",
+        "name": "View Angle",
+        "rating": 1800,
+        "tags": [
+          "brute force",
+          "geometry",
+          "math"
+        ],
+        "url": "https://codeforces.com/problemset/problem/257/C"
+      },
+      {
+        "slot": 6,
+        "id": "515D",
+        "name": "Drazil and Tiles",
+        "rating": 2000,
+        "tags": [
+          "constructive algorithms",
+          "greedy"
+        ],
+        "url": "https://codeforces.com/problemset/problem/515/D"
+      }
+    ]
   }
 ]
