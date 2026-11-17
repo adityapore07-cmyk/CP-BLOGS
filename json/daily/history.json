@@ -611,5 +611,75 @@
         "url": "https://codeforces.com/problemset/problem/515/D"
       }
     ]
+  },
+  {
+    "date": "2026-11-17",
+    "problems": [
+      {
+        "slot": 1,
+        "id": "2208A",
+        "name": "Bingo Candies",
+        "rating": 800,
+        "tags": [
+          "constructive algorithms",
+          "math"
+        ],
+        "url": "https://codeforces.com/problemset/problem/2208/A"
+      },
+      {
+        "slot": 2,
+        "id": "250A",
+        "name": "Paper Work",
+        "rating": 1000,
+        "tags": [
+          "greedy"
+        ],
+        "url": "https://codeforces.com/problemset/problem/250/A"
+      },
+      {
+        "slot": 3,
+        "id": "1866B",
+        "name": "Battling with Numbers",
+        "rating": 1400,
+        "tags": [
+          "combinatorics",
+          "math",
+          "number theory"
+        ],
+        "url": "https://codeforces.com/problemset/problem/1866/B"
+      },
+      {
+        "slot": 4,
+        "id": "1263B",
+        "name": "PIN Codes",
+        "rating": 1400,
+        "tags": [
+          "greedy",
+          "implementation"
+        ],
+        "url": "https://codeforces.com/problemset/problem/1263/B"
+      },
+      {
+        "slot": 5,
+        "id": "989C",
+        "name": "A Mist of Florescence",
+        "rating": 1800,
+        "tags": [
+          "constructive algorithms",
+          "graphs"
+        ],
+        "url": "https://codeforces.com/problemset/problem/989/C"
+      },
+      {
+        "slot": 6,
+        "id": "216C",
+        "name": "Hiring Staff",
+        "rating": 1800,
+        "tags": [
+          "greedy"
+        ],
+        "url": "https://codeforces.com/problemset/problem/216/C"
+      }
+    ]
   }
 ]
