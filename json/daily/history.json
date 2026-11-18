@@ -681,5 +681,79 @@
         "url": "https://codeforces.com/problemset/problem/216/C"
       }
     ]
+  },
+  {
+    "date": "2026-11-18",
+    "problems": [
+      {
+        "slot": 1,
+        "id": "1150B",
+        "name": "Tiling Challenge",
+        "rating": 900,
+        "tags": [
+          "greedy",
+          "implementation"
+        ],
+        "url": "https://codeforces.com/problemset/problem/1150/B"
+      },
+      {
+        "slot": 2,
+        "id": "1849B",
+        "name": "Monsters",
+        "rating": 1000,
+        "tags": [
+          "greedy",
+          "math",
+          "sortings"
+        ],
+        "url": "https://codeforces.com/problemset/problem/1849/B"
+      },
+      {
+        "slot": 3,
+        "id": "1371B",
+        "name": "Magical Calendar",
+        "rating": 1200,
+        "tags": [
+          "math"
+        ],
+        "url": "https://codeforces.com/problemset/problem/1371/B"
+      },
+      {
+        "slot": 4,
+        "id": "757B",
+        "name": "Bash's Big Day",
+        "rating": 1400,
+        "tags": [
+          "greedy",
+          "math",
+          "number theory"
+        ],
+        "url": "https://codeforces.com/problemset/problem/757/B"
+      },
+      {
+        "slot": 5,
+        "id": "1476D",
+        "name": "Journey",
+        "rating": 1700,
+        "tags": [
+          "dfs and similar",
+          "dp",
+          "dsu",
+          "implementation"
+        ],
+        "url": "https://codeforces.com/problemset/problem/1476/D"
+      },
+      {
+        "slot": 6,
+        "id": "675D",
+        "name": "Tree Construction",
+        "rating": 1800,
+        "tags": [
+          "data structures",
+          "trees"
+        ],
+        "url": "https://codeforces.com/problemset/problem/675/D"
+      }
+    ]
   }
 ]
