@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T23:07:39.417Z",
+  "updatedAt": "2026-11-18T09:11:22.487Z",
   "users": {
     "urabhay10": {
       "name": "Abhay Upadhyay",
@@ -343,7 +343,11 @@
           "1957B"
         ]
       },
-      "lateSolves": {},
+      "lateSolves": {
+        "2026-11-15": [
+          "1200D"
+        ]
+      },
       "totalSolved": 3,
       "currentStreak": 0,
       "longestStreak": 2,
