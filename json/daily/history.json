@@ -755,5 +755,87 @@
         "url": "https://codeforces.com/problemset/problem/675/D"
       }
     ]
+  },
+  {
+    "date": "2026-11-19",
+    "problems": [
+      {
+        "slot": 1,
+        "id": "1837A",
+        "name": "Grasshopper on a Line",
+        "rating": 800,
+        "tags": [
+          "constructive algorithms",
+          "math"
+        ],
+        "url": "https://codeforces.com/problemset/problem/1837/A"
+      },
+      {
+        "slot": 2,
+        "id": "998B",
+        "name": "Cutting",
+        "rating": 1200,
+        "tags": [
+          "dp",
+          "greedy",
+          "sortings"
+        ],
+        "url": "https://codeforces.com/problemset/problem/998/B"
+      },
+      {
+        "slot": 3,
+        "id": "1904C",
+        "name": "Array Game",
+        "rating": 1400,
+        "tags": [
+          "binary search",
+          "brute force",
+          "data structures",
+          "sortings",
+          "two pointers"
+        ],
+        "url": "https://codeforces.com/problemset/problem/1904/C"
+      },
+      {
+        "slot": 4,
+        "id": "1997D",
+        "name": "Maximize the Root",
+        "rating": 1500,
+        "tags": [
+          "binary search",
+          "dfs and similar",
+          "dp",
+          "greedy",
+          "trees"
+        ],
+        "url": "https://codeforces.com/problemset/problem/1997/D"
+      },
+      {
+        "slot": 5,
+        "id": "883K",
+        "name": "Road Widening",
+        "rating": 1800,
+        "tags": [
+          "constructive algorithms",
+          "greedy",
+          "implementation"
+        ],
+        "url": "https://codeforces.com/problemset/problem/883/K"
+      },
+      {
+        "slot": 6,
+        "id": "750D",
+        "name": "New Year and Fireworks",
+        "rating": 1900,
+        "tags": [
+          "brute force",
+          "data structures",
+          "dfs and similar",
+          "dp",
+          "implementation"
+        ],
+        "url": "https://codeforces.com/problemset/problem/750/D"
+      }
+    ]
   }
 ]
