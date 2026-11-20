@@ -837,5 +837,76 @@
         "url": "https://codeforces.com/problemset/problem/750/D"
       }
     ]
+  },
+  {
+    "date": "2026-11-20",
+    "problems": [
+      {
+        "slot": 1,
+        "id": "486A",
+        "name": "Calculating Function",
+        "rating": 800,
+        "tags": [
+          "implementation",
+          "math"
+        ],
+        "url": "https://codeforces.com/problemset/problem/486/A"
+      },
+      {
+        "slot": 2,
+        "id": "1023B",
+        "name": "Pair of Toys",
+        "rating": 1000,
+        "tags": [
+          "math"
+        ],
+        "url": "https://codeforces.com/problemset/problem/1023/B"
+      },
+      {
+        "slot": 3,
+        "id": "1854A1",
+        "name": "Dual (Easy Version)",
+        "rating": 1400,
+        "tags": [
+          "constructive algorithms",
+          "math"
+        ],
+        "url": "https://codeforces.com/problemset/problem/1854/A1"
+      },
+      {
+        "slot": 4,
+        "id": "362A",
+        "name": "Two Semiknights Meet",
+        "rating": 1500,
+        "tags": [
+          "greedy",
+          "math"
+        ],
+        "url": "https://codeforces.com/problemset/problem/362/A"
+      },
+      {
+        "slot": 5,
+        "id": "632C",
+        "name": "The Smallest String Concatenation",
+        "rating": 1700,
+        "tags": [
+          "sortings",
+          "strings"
+        ],
+        "url": "https://codeforces.com/problemset/problem/632/C"
+      },
+      {
+        "slot": 6,
+        "id": "1641B",
+        "name": "Repetitions Decoding",
+        "rating": 2000,
+        "tags": [
+          "constructive algorithms",
+          "implementation",
+          "sortings"
+        ],
+        "url": "https://codeforces.com/problemset/problem/1641/B"
+      }
+    ]
   }
 ]
