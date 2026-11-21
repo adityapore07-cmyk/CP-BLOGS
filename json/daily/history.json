@@ -908,5 +908,83 @@
         "url": "https://codeforces.com/problemset/problem/1641/B"
       }
     ]
+  },
+  {
+    "date": "2026-11-21",
+    "problems": [
+      {
+        "slot": 1,
+        "id": "1469B",
+        "name": "Red and Blue",
+        "rating": 1000,
+        "tags": [
+          "dp",
+          "greedy"
+        ],
+        "url": "https://codeforces.com/problemset/problem/1469/B"
+      },
+      {
+        "slot": 2,
+        "id": "13A",
+        "name": "Numbers",
+        "rating": 1000,
+        "tags": [
+          "implementation",
+          "math"
+        ],
+        "url": "https://codeforces.com/problemset/problem/13/A"
+      },
+      {
+        "slot": 3,
+        "id": "2154C1",
+        "name": "No Cost Too Great (Easy Version)",
+        "rating": 1400,
+        "tags": [
+          "greedy",
+          "implementation",
+          "math",
+          "number theory"
+        ],
+        "url": "https://codeforces.com/problemset/problem/2154/C1"
+      },
+      {
+        "slot": 4,
+        "id": "1025B",
+        "name": "Weakened Common Divisor",
+        "rating": 1600,
+        "tags": [
+          "brute force",
+          "greedy",
+          "number theory"
+        ],
+        "url": "https://codeforces.com/problemset/problem/1025/B"
+      },
+      {
+        "slot": 5,
+        "id": "932C",
+        "name": "Permutation Cycle",
+        "rating": 1600,
+        "tags": [
+          "brute force",
+          "constructive algorithms"
+        ],
+        "url": "https://codeforces.com/problemset/problem/932/C"
+      },
+      {
+        "slot": 6,
+        "id": "2253D",
+        "name": "Hypercarp and Interdimensional Jumps",
+        "rating": 1800,
+        "tags": [
+          "binary search",
+          "brute force",
+          "geometry",
+          "greedy",
+          "implementation",
+          "math"
+        ],
+        "url": "https://codeforces.com/problemset/problem/2253/D"
+      }
+    ]
   }
 ]
