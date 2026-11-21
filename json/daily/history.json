@@ -986,5 +986,82 @@
         "url": "https://codeforces.com/problemset/problem/2253/D"
       }
     ]
+  },
+  {
+    "date": "2026-11-22",
+    "problems": [
+      {
+        "slot": 1,
+        "id": "2051A",
+        "name": "Preparing for the Olympiad",
+        "rating": 800,
+        "tags": [
+          "greedy"
+        ],
+        "url": "https://codeforces.com/problemset/problem/2051/A"
+      },
+      {
+        "slot": 2,
+        "id": "1860B",
+        "name": "Fancy Coins",
+        "rating": 1200,
+        "tags": [
+          "binary search",
+          "brute force",
+          "greedy",
+          "math"
+        ],
+        "url": "https://codeforces.com/problemset/problem/1860/B"
+      },
+      {
+        "slot": 3,
+        "id": "1311B",
+        "name": "WeirdSort",
+        "rating": 1200,
+        "tags": [
+          "dfs and similar",
+          "sortings"
+        ],
+        "url": "https://codeforces.com/problemset/problem/1311/B"
+      },
+      {
+        "slot": 4,
+        "id": "276C",
+        "name": "Little Girl and Maximum Sum",
+        "rating": 1500,
+        "tags": [
+          "data structures",
+          "greedy",
+          "implementation",
+          "sortings"
+        ],
+        "url": "https://codeforces.com/problemset/problem/276/C"
+      },
+      {
+        "slot": 5,
+        "id": "1015D",
+        "name": "Walking Between Houses",
+        "rating": 1600,
+        "tags": [
+          "constructive algorithms",
+          "greedy"
+        ],
+        "url": "https://codeforces.com/problemset/problem/1015/D"
+      },
+      {
+        "slot": 6,
+        "id": "1156C",
+        "name": "Match Points",
+        "rating": 2000,
+        "tags": [
+          "binary search",
+          "greedy",
+          "sortings",
+          "ternary search",
+          "two pointers"
+        ],
+        "url": "https://codeforces.com/problemset/problem/1156/C"
+      }
+    ]
   }
 ]
