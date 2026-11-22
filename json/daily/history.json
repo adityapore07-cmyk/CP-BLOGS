@@ -1063,5 +1063,78 @@
         "url": "https://codeforces.com/problemset/problem/1156/C"
       }
     ]
+  },
+  {
+    "date": "2026-11-23",
+    "problems": [
+      {
+        "slot": 1,
+        "id": "1462C",
+        "name": "Unique Number",
+        "rating": 900,
+        "tags": [
+          "brute force",
+          "greedy",
+          "math"
+        ],
+        "url": "https://codeforces.com/problemset/problem/1462/C"
+      },
+      {
+        "slot": 2,
+        "id": "931B",
+        "name": "World Cup",
+        "rating": 1200,
+        "tags": [
+          "constructive algorithms",
+          "implementation"
+        ],
+        "url": "https://codeforces.com/problemset/problem/931/B"
+      },
+      {
+        "slot": 3,
+        "id": "42A",
+        "name": "Guilty --- to the kitchen!",
+        "rating": 1400,
+        "tags": [
+          "greedy",
+          "implementation"
+        ],
+        "url": "https://codeforces.com/problemset/problem/42/A"
+      },
+      {
+        "slot": 4,
+        "id": "1004C",
+        "name": "Sonya and Robots",
+        "rating": 1400,
+        "tags": [
+          "constructive algorithms",
+          "implementation"
+        ],
+        "url": "https://codeforces.com/problemset/problem/1004/C"
+      },
+      {
+        "slot": 5,
+        "id": "626D",
+        "name": "Jerry's Protest",
+        "rating": 1800,
+        "tags": [
+          "brute force",
+          "combinatorics",
+          "dp",
+          "probabilities"
+        ],
+        "url": "https://codeforces.com/problemset/problem/626/D"
+      },
+      {
+        "slot": 6,
+        "id": "33C",
+        "name": "Wonderful Randomized Sum",
+        "rating": 1800,
+        "tags": [
+          "greedy"
+        ],
+        "url": "https://codeforces.com/problemset/problem/33/C"
+      }
+    ]
   }
 ]
