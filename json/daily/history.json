@@ -1136,5 +1136,85 @@
         "url": "https://codeforces.com/problemset/problem/33/C"
       }
     ]
+  },
+  {
+    "date": "2026-11-24",
+    "problems": [
+      {
+        "slot": 1,
+        "id": "1462B",
+        "name": "Last Year's Substring",
+        "rating": 800,
+        "tags": [
+          "dp",
+          "implementation",
+          "strings"
+        ],
+        "url": "https://codeforces.com/problemset/problem/1462/B"
+      },
+      {
+        "slot": 2,
+        "id": "1085B",
+        "name": "Div Times Mod",
+        "rating": 1100,
+        "tags": [
+          "math"
+        ],
+        "url": "https://codeforces.com/problemset/problem/1085/B"
+      },
+      {
+        "slot": 3,
+        "id": "755C",
+        "name": "PolandBall and Forest",
+        "rating": 1300,
+        "tags": [
+          "dfs and similar",
+          "dsu",
+          "graphs",
+          "interactive",
+          "trees"
+        ],
+        "url": "https://codeforces.com/problemset/problem/755/C"
+      },
+      {
+        "slot": 4,
+        "id": "2084D",
+        "name": "Arcology On Permafrost",
+        "rating": 1600,
+        "tags": [
+          "binary search",
+          "brute force",
+          "constructive algorithms",
+          "greedy",
+          "math"
+        ],
+        "url": "https://codeforces.com/problemset/problem/2084/D"
+      },
+      {
+        "slot": 5,
+        "id": "1250J",
+        "name": "The Parade",
+        "rating": 1800,
+        "tags": [
+          "binary search",
+          "greedy"
+        ],
+        "url": "https://codeforces.com/problemset/problem/1250/J"
+      },
+      {
+        "slot": 6,
+        "id": "2264D",
+        "name": "Dr. Agos's Dark Mode",
+        "rating": 1900,
+        "tags": [
+          "brute force",
+          "chinese remainder theorem",
+          "constructive algorithms",
+          "math",
+          "strings"
+        ],
+        "url": "https://codeforces.com/problemset/problem/2264/D"
+      }
+    ]
   }
 ]
