@@ -1216,5 +1216,85 @@
         "url": "https://codeforces.com/problemset/problem/2264/D"
       }
     ]
+  },
+  {
+    "date": "2026-11-25",
+    "problems": [
+      {
+        "slot": 1,
+        "id": "1585A",
+        "name": "Life of a Flower",
+        "rating": 800,
+        "tags": [
+          "implementation"
+        ],
+        "url": "https://codeforces.com/problemset/problem/1585/A"
+      },
+      {
+        "slot": 2,
+        "id": "1406B",
+        "name": "Maximum Product",
+        "rating": 1200,
+        "tags": [
+          "brute force",
+          "dp",
+          "greedy",
+          "implementation",
+          "sortings"
+        ],
+        "url": "https://codeforces.com/problemset/problem/1406/B"
+      },
+      {
+        "slot": 3,
+        "id": "55A",
+        "name": "Flea travel",
+        "rating": 1200,
+        "tags": [
+          "implementation",
+          "math"
+        ],
+        "url": "https://codeforces.com/problemset/problem/55/A"
+      },
+      {
+        "slot": 4,
+        "id": "2244E",
+        "name": "Masha and the Garland",
+        "rating": 1400,
+        "tags": [
+          "data structures",
+          "dp",
+          "greedy",
+          "implementation",
+          "math",
+          "number theory",
+          "strings"
+        ],
+        "url": "https://codeforces.com/problemset/problem/2244/E"
+      },
+      {
+        "slot": 5,
+        "id": "182E",
+        "name": "Wooden Fence",
+        "rating": 1800,
+        "tags": [
+          "dp"
+        ],
+        "url": "https://codeforces.com/problemset/problem/182/E"
+      },
+      {
+        "slot": 6,
+        "id": "1713D",
+        "name": "Tournament Countdown",
+        "rating": 1800,
+        "tags": [
+          "constructive algorithms",
+          "greedy",
+          "interactive",
+          "number theory",
+          "probabilities"
+        ],
+        "url": "https://codeforces.com/problemset/problem/1713/D"
+      }
+    ]
   }
 ]
