@@ -1296,5 +1296,79 @@
         "url": "https://codeforces.com/problemset/problem/1713/D"
       }
     ]
+  },
+  {
+    "date": "2026-11-26",
+    "problems": [
+      {
+        "slot": 1,
+        "id": "2093C",
+        "name": "Simple Repetition",
+        "rating": 1000,
+        "tags": [
+          "math",
+          "number theory"
+        ],
+        "url": "https://codeforces.com/problemset/problem/2093/C"
+      },
+      {
+        "slot": 2,
+        "id": "1906A",
+        "name": "Easy As ABC",
+        "rating": 1000,
+        "tags": [
+          "brute force"
+        ],
+        "url": "https://codeforces.com/problemset/problem/1906/A"
+      },
+      {
+        "slot": 3,
+        "id": "2010C1",
+        "name": "Message Transmission Error (easy version)",
+        "rating": 1400,
+        "tags": [
+          "brute force",
+          "strings"
+        ],
+        "url": "https://codeforces.com/problemset/problem/2010/C1"
+      },
+      {
+        "slot": 4,
+        "id": "413C",
+        "name": "Jeopardy!",
+        "rating": 1400,
+        "tags": [
+          "greedy",
+          "math"
+        ],
+        "url": "https://codeforces.com/problemset/problem/413/C"
+      },
+      {
+        "slot": 5,
+        "id": "187B",
+        "name": "AlgoRace",
+        "rating": 1800,
+        "tags": [
+          "dp",
+          "shortest paths"
+        ],
+        "url": "https://codeforces.com/problemset/problem/187/B"
+      },
+      {
+        "slot": 6,
+        "id": "1254B1",
+        "name": "Send Boxes to Alice (Easy Version)",
+        "rating": 1800,
+        "tags": [
+          "constructive algorithms",
+          "greedy",
+          "math",
+          "number theory",
+          "ternary search",
+          "two pointers"
+        ],
+        "url": "https://codeforces.com/problemset/problem/1254/B1"
+      }
+    ]
   }
 ]
