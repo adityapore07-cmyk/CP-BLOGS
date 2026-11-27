@@ -1370,5 +1370,79 @@
         "url": "https://codeforces.com/problemset/problem/1254/B1"
       }
     ]
+  },
+  {
+    "date": "2026-11-27",
+    "problems": [
+      {
+        "slot": 1,
+        "id": "451A",
+        "name": "Game With Sticks",
+        "rating": 900,
+        "tags": [
+          "implementation"
+        ],
+        "url": "https://codeforces.com/problemset/problem/451/A"
+      },
+      {
+        "slot": 2,
+        "id": "389B",
+        "name": "Fox and Cross",
+        "rating": 1100,
+        "tags": [
+          "greedy",
+          "implementation"
+        ],
+        "url": "https://codeforces.com/problemset/problem/389/B"
+      },
+      {
+        "slot": 3,
+        "id": "2127C",
+        "name": "Trip Shopping",
+        "rating": 1400,
+        "tags": [
+          "games",
+          "greedy",
+          "sortings"
+        ],
+        "url": "https://codeforces.com/problemset/problem/2127/C"
+      },
+      {
+        "slot": 4,
+        "id": "2238C",
+        "name": "Village Guilds",
+        "rating": 1400,
+        "tags": [
+          "dfs and similar",
+          "dp",
+          "trees"
+        ],
+        "url": "https://codeforces.com/problemset/problem/2238/C"
+      },
+      {
+        "slot": 5,
+        "id": "1912K",
+        "name": "Kim's Quest",
+        "rating": 1800,
+        "tags": [
+          "bitmasks",
+          "combinatorics",
+          "dp"
+        ],
+        "url": "https://codeforces.com/problemset/problem/1912/K"
+      },
+      {
+        "slot": 6,
+        "id": "1256F",
+        "name": "Equalizing Two Strings",
+        "rating": 2000,
+        "tags": [
+          "constructive algorithms",
+          "sortings",
+          "strings"
+        ],
+        "url": "https://codeforces.com/problemset/problem/1256/F"
+      }
+    ]
   }
 ]
