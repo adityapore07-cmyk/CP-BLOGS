@@ -1444,5 +1444,82 @@
         "url": "https://codeforces.com/problemset/problem/1256/F"
       }
     ]
+  },
+  {
+    "date": "2026-11-28",
+    "problems": [
+      {
+        "slot": 1,
+        "id": "1669B",
+        "name": "Triple",
+        "rating": 800,
+        "tags": [
+          "implementation",
+          "sortings"
+        ],
+        "url": "https://codeforces.com/problemset/problem/1669/B"
+      },
+      {
+        "slot": 2,
+        "id": "1825B",
+        "name": "LuoTianyi and the Table",
+        "rating": 1000,
+        "tags": [
+          "greedy",
+          "math"
+        ],
+        "url": "https://codeforces.com/problemset/problem/1825/B"
+      },
+      {
+        "slot": 3,
+        "id": "1922B",
+        "name": "Forming Triangles",
+        "rating": 1200,
+        "tags": [
+          "combinatorics",
+          "constructive algorithms",
+          "math",
+          "sortings"
+        ],
+        "url": "https://codeforces.com/problemset/problem/1922/B"
+      },
+      {
+        "slot": 4,
+        "id": "888D",
+        "name": "Almost Identity Permutations",
+        "rating": 1600,
+        "tags": [
+          "combinatorics",
+          "dp",
+          "math"
+        ],
+        "url": "https://codeforces.com/problemset/problem/888/D"
+      },
+      {
+        "slot": 5,
+        "id": "1776F",
+        "name": "Train Splitting",
+        "rating": 1700,
+        "tags": [
+          "constructive algorithms",
+          "graphs",
+          "greedy"
+        ],
+        "url": "https://codeforces.com/problemset/problem/1776/F"
+      },
+      {
+        "slot": 6,
+        "id": "1718B",
+        "name": "Fibonacci Strings",
+        "rating": 2000,
+        "tags": [
+          "greedy",
+          "implementation",
+          "math",
+          "number theory"
+        ],
+        "url": "https://codeforces.com/problemset/problem/1718/B"
+      }
+    ]
   }
 ]
